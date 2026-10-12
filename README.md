@@ -1,5 +1,5 @@
 # README
-# Hi, I'm Abdul Majid!
+# Hi, I'm Abdul Majid!!
 
 **PhD in Chemical Engineering | Computational & Systems Biology | Mathematical Modeling | AI/ML Disease Research**
 
